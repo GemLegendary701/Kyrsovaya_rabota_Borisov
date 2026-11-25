@@ -1,0 +1,36 @@
+﻿<Page x:Class="LibraryApp.Pages.IssueBookPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Выдача книги"
+      Background="White">
+
+    <Grid MaxWidth="450" VerticalAlignment="Top" Margin="0,40,0,0" HorizontalAlignment="Center">
+        <Border Background="White" CornerRadius="10" Padding="30">
+            <StackPanel>
+                <TextBlock Text="Выдача книги читателю" FontSize="22" FontWeight="Bold" 
+                           Margin="0,0,0,25" HorizontalAlignment="Center"/>
+
+                <TextBlock Text="Выберите книгу:" Margin="0,0,0,5"/>
+                <ComboBox x:Name="cmbBooks" Height="35" Margin="0,0,0,15" 
+                          DisplayMemberPath="Title" SelectedValuePath="Id"/>
+
+                <TextBlock Text="Выберите читателя:" Margin="0,0,0,5"/>
+                <ComboBox x:Name="cmbReaders" Height="35" Margin="0,0,0,15" 
+                          DisplayMemberPath="FullName" SelectedValuePath="Id"/>
+
+                <TextBlock Text="Дата выдачи:" Margin="0,0,0,5"/>
+                <DatePicker x:Name="dpIssueDate" Height="35" Margin="0,0,0,15"/>
+
+                <TextBlock Text="Срок возврата:" Margin="0,0,0,5"/>
+                <DatePicker x:Name="dpDueDate" Height="35" Margin="0,0,0,30"/>
+                
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                    <Button Content="Выдать" Width="110" Height="40" Margin="0,0,15,0" Click="btnIssue_Click" 
+                            Background="#2563EB" Foreground="White" BorderThickness="0" FontWeight="SemiBold"/>
+                    <Button Content="Отмена" Width="110" Height="40" Click="btnCancel_Click"
+                            Background="White" BorderThickness="0"/>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Page>

@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boris\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\LibraryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{810CDD86-8210-44C9-85ED-245503BEF430}|LibraryApp\\LibraryApp.csproj|c:\\users\\boris\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\libraryapp\\libraryapp\\pages\\addbookpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{810CDD86-8210-44C9-85ED-245503BEF430}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\pages\\addbookpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810CDD86-8210-44C9-85ED-245503BEF430}|LibraryApp\\LibraryApp.csproj|c:\\users\\boris\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\libraryapp\\libraryapp\\pages\\readerspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{810CDD86-8210-44C9-85ED-245503BEF430}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\pages\\readerspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810CDD86-8210-44C9-85ED-245503BEF430}|LibraryApp\\LibraryApp.csproj|c:\\users\\boris\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\libraryapp\\libraryapp\\pages\\loanspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{810CDD86-8210-44C9-85ED-245503BEF430}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\pages\\loanspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810CDD86-8210-44C9-85ED-245503BEF430}|LibraryApp\\LibraryApp.csproj|c:\\users\\boris\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\libraryapp\\libraryapp\\pages\\bookspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{810CDD86-8210-44C9-85ED-245503BEF430}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\pages\\bookspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810CDD86-8210-44C9-85ED-245503BEF430}|LibraryApp\\LibraryApp.csproj|c:\\users\\boris\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\libraryapp\\libraryapp\\pages\\readerspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810CDD86-8210-44C9-85ED-245503BEF430}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\pages\\readerspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810CDD86-8210-44C9-85ED-245503BEF430}|LibraryApp\\LibraryApp.csproj|c:\\users\\boris\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\libraryapp\\libraryapp\\pages\\loanspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810CDD86-8210-44C9-85ED-245503BEF430}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\pages\\loanspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810CDD86-8210-44C9-85ED-245503BEF430}|LibraryApp\\LibraryApp.csproj|c:\\users\\boris\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\libraryapp\\libraryapp\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810CDD86-8210-44C9-85ED-245503BEF430}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810CDD86-8210-44C9-85ED-245503BEF430}|LibraryApp\\LibraryApp.csproj|c:\\users\\boris\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\libraryapp\\libraryapp\\pages\\bookspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810CDD86-8210-44C9-85ED-245503BEF430}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\pages\\bookspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BooksPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\LibraryApp\\LibraryApp\\Pages\\BooksPage.xaml.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Pages\\BooksPage.xaml.cs",
+              "ToolTip": "C:\\Users\\boris\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\LibraryApp\\LibraryApp\\Pages\\BooksPage.xaml.cs",
+              "RelativeToolTip": "LibraryApp\\Pages\\BooksPage.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAASwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T10:34:27.05Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksPage.xaml",
+              "DocumentMoniker": "C:\\Users\\boris\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\LibraryApp\\LibraryApp\\Pages\\BooksPage.xaml",
+              "RelativeDocumentMoniker": "LibraryApp\\Pages\\BooksPage.xaml",
+              "ToolTip": "C:\\Users\\boris\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\LibraryApp\\LibraryApp\\Pages\\BooksPage.xaml",
+              "RelativeToolTip": "LibraryApp\\Pages\\BooksPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-25T13:21:28.804Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddBookPage.xaml",
+              "DocumentMoniker": "C:\\Users\\boris\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\LibraryApp\\LibraryApp\\Pages\\AddBookPage.xaml",
+              "RelativeDocumentMoniker": "LibraryApp\\Pages\\AddBookPage.xaml",
+              "ToolTip": "C:\\Users\\boris\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\LibraryApp\\LibraryApp\\Pages\\AddBookPage.xaml",
+              "RelativeToolTip": "LibraryApp\\Pages\\AddBookPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-25T15:06:05.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\boris\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\LibraryApp\\LibraryApp\\Pages\\ReadersPage.xaml",
+              "RelativeDocumentMoniker": "LibraryApp\\Pages\\ReadersPage.xaml",
+              "ToolTip": "C:\\Users\\boris\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\LibraryApp\\LibraryApp\\Pages\\ReadersPage.xaml",
+              "RelativeToolTip": "LibraryApp\\Pages\\ReadersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-25T13:50:26.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReadersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\LibraryApp\\LibraryApp\\Pages\\ReadersPage.xaml.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Pages\\ReadersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\boris\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\LibraryApp\\LibraryApp\\Pages\\ReadersPage.xaml.cs",
+              "RelativeToolTip": "LibraryApp\\Pages\\ReadersPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T13:50:25.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\LibraryApp\\LibraryApp\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\boris\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\LibraryApp\\LibraryApp\\Models\\Loan.cs",
+              "RelativeToolTip": "LibraryApp\\Models\\Loan.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswBwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T14:07:48.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoansPage.xaml",
+              "DocumentMoniker": "C:\\Users\\boris\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\LibraryApp\\LibraryApp\\Pages\\LoansPage.xaml",
+              "RelativeDocumentMoniker": "LibraryApp\\Pages\\LoansPage.xaml",
+              "ToolTip": "C:\\Users\\boris\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\LibraryApp\\LibraryApp\\Pages\\LoansPage.xaml",
+              "RelativeToolTip": "LibraryApp\\Pages\\LoansPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-25T13:56:32.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoansPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\LibraryApp\\LibraryApp\\Pages\\LoansPage.xaml.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Pages\\LoansPage.xaml.cs",
+              "ToolTip": "C:\\Users\\boris\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\LibraryApp\\LibraryApp\\Pages\\LoansPage.xaml.cs",
+              "RelativeToolTip": "LibraryApp\\Pages\\LoansPage.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwCEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T13:55:37.843Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
